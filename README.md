@@ -19,3 +19,5 @@ for called the scrapper endpoint
 <br>
 <br>
 <h1>GUI version at https://projectla.biz.id</h1>
+<br>
+<h6>Pre made endpoint https://pint.zeabur.app/api/scrape?username={username} </h6>
