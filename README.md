@@ -8,7 +8,9 @@ for called the scrapper endpoint
 
 <br>
 <br>
-<li> i sorry but this scrapper has a bug is to instert the username you has to put caps lette rin first letter</li>
+<h1> Bug</h1>
+</br>
+<li> This scrapper has a bug is to instert the username you has to put caps letter in first letter</li>
 <br>
 <br>
 <h1>
