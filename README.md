@@ -20,6 +20,6 @@ for called the scrapper endpoint
 <p>"GET {Your Domain}/api/scrape?username=Pinterest"<p>
 <br>
 <br>
-<h1>GUI version at https://projectla.biz.id</h1>
+<h1>GUI version </h1> at https://projectla.biz.id</h1>
 <br>
 <h6>Pre made endpoint https://pint.zeabur.app/api/scrape?username={username} </h6>
